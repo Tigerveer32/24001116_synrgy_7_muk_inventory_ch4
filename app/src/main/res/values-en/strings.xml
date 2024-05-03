@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">inventory management</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="txt_not_null">Cannot be NULL!</string>
+    <string name="txt_not_empty">Cannot be empty!</string>
+    <string name="txt_not_email">Invalid email!</string>
+    <string name="txt_not_min_length_8">Minimum 8 characters!</string>
+    <string name="txt_not_lowercase_and_uppercase">Must contain both Uppercase and Lowercase!</string>
+    <string name="txt_not_valid_confirm_password">Password does not match the previous one!</string>
+    <string name="txt_not_min_length_6">Minimum 6 characters!</string>
+    <string name="txt_not_alphanumeric">Must contain Alphanumeric characters!</string>
+    <string name="digits_only">Cannot contain characters other than digits!</string>
+</resources>
