@@ -70,13 +70,15 @@ dependencies {
     implementation(libs.validator)
     implementation(libs.navigation.fragment.ktx)
     implementation(libs.navigation.ui.ktx)
-    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
-    implementation("androidx.legacy:legacy-support-v4:1.0.0")
-    implementation("androidx.datastore:datastore-preferences:1.0.0")
-    implementation("androidx.datastore:datastore-preferences-core:1.0.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
-    implementation("androidx.recyclerview:recyclerview:1.3.1")
-    implementation("androidx.preference:preference-ktx:1.2.1")
+    implementation(libs.coil)
+    implementation(libs.livedatas)
+    implementation(libs.viewmodels)
+    implementation(libs.legacys)
+    implementation(libs.datastore)
+    implementation(libs.datastore.core)
+    implementation(libs.coroutines)
+    implementation(libs.recycleview)
+    implementation(libs.preferences)
+
 
 }
